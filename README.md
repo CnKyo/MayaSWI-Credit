@@ -4,7 +4,11 @@ Description
 
 Software Architecture
 Software architecture description
-1232221fomo@@fyinformation=cc@@hansheng 11222
+
+
+123123123123
+
+
 Installation
 xxxx
 xxxx
