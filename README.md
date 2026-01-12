@@ -6,7 +6,7 @@ Software Architecture
 Software architecture description
 
 
-1232221fomo@@fyinformation=cc@@hansheng 11222
+1232221fomo@@mayaswicredit=icu@@hansheng 11222
 
 
 Installation
